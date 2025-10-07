@@ -1,0 +1,1 @@
+Prácticas del tema Introducción a R de la asignatura 259 - Introducción a los Datos Masivos y a la Ciencia en Abierto - Curso 2025-2026 del Máster Interuniversitario de Data Science de la Universidad de Cantabria y la Universidad Internacional Menéndez Pelayo
